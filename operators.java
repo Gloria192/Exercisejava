@@ -9,12 +9,12 @@
 // }
 //multiplyications
 public class operators {
-public static void main(String[] args) {
+public static void main(String [] args) {
     int i=8 ;
     int j=5;
     int product=i*j;
-    double a=15 ;
-    double b=4;
+    int a=3;
+    int b=5;
     double quotient=a/b;
     int c= 20 ;
     int d= 6;
